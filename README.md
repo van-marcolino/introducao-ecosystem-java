@@ -70,6 +70,7 @@ Comentários e bloco: começa com " /** " e quando termina de comentatar coloca 
 Javadoc: ferramenta de documentação HTML que se baseia nos comentários do código fonte. Os comentários precisam de tags para que fique legível.
 
 Tags Javadoc: 
+
 @author - especifica o autor da classe ou do método.
 
 @deprecated - identifica classes ou métodos absoletos.
